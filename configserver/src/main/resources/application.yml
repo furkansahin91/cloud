@@ -5,4 +5,6 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/furkansahin91/cloud
+          username: furkansahin91
+          password: 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
